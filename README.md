@@ -1,2 +1,2 @@
 # covidagg
-Project on Spatial aggregation bias of COVID-19 growth rate
+Code and data for the paper: Unequal Impact and SpatialAggregation DistortCOVID-19 Growth Rates
